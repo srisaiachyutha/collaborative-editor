@@ -1,7 +1,6 @@
 {
     "name": "collaborative-editor",
     "version": "0.1.0",
-    "homepage": "https://srisaiachyutha.github.io/collaborative-editor",
     "private": true,
     "dependencies": {
         "@monaco-editor/react": "^4.6.0",
